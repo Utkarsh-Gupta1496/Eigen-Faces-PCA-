@@ -10,7 +10,7 @@ This Repository demonstrates how we can generate **Eigen Faces** using PCA.
        
 **Technique Used** : Principal Component Analysis (PCA)-[High Dimmensional]
 
-Sample Output :  **Top 8 Eigen Faces**
+**Sample Output** :  **Top 8 Eigen Faces**
 ![](/images/output.png)
 
 
